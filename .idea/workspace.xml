@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5692606-a74f-49e3-ba4a-c1c69dab7287" name="Changes" comment="upload : 콘솔게시판" />
+    <list default="true" id="d5692606-a74f-49e3-ba4a-c1c69dab7287" name="Changes" comment="feat : gitignore 비밀번호 파일 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbcConsoleBoard/JDBCBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbcConsoleBoard/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbcConsoleBoard/SQLTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleBoard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleBoard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consoleBoard/Board.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +39,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/javaProject/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15625",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1669783114073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upload : 콘솔게시판">
+      <created>1669783550726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669783550726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat : gitignore 비밀번호 파일 추가">
+      <created>1669786338080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669786338080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat : gitignore 비밀번호 파일 추가">
+      <created>1669786440320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669786440320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload : 콘솔게시판" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload : 콘솔게시판" />
+    <MESSAGE value="feat : gitignore 비밀번호 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : gitignore 비밀번호 파일 추가" />
   </component>
 </project>

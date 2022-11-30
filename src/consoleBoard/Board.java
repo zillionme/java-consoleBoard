@@ -1,3 +1,4 @@
+package consoleBoard;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
